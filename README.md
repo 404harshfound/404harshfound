@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+making;Java+%2B+DSA+%2B+Backend;Shipping+GenAI+%2F+agentic+projects;Placements+2027)](https://git.io/typing-svg)
+# Harsh Raj
+
+### SWE + GenAI Engineer
 
 </div>
 
