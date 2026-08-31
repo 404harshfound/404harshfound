@@ -6,7 +6,7 @@
 
 </div>
 
-B.Tech Computer Science student at SRM Institute of Science and Technology (Delhi-NCR), working toward a Software Engineer role. Core track is Java + data structures & algorithms + backend development, with generative AI / agentic systems as the differentiator project layer on top.
+CS undergrad at SRM Institute of Science and Technology, Delhi-NCR. Most of my time goes into Java and DSA, and I build backend projects to put that into practice. Lately I've been getting into GenAI and agentic systems too, and folding that into what I build. Aiming to land a software engineering role in 2027.
 
 Practicing and logging daily — see [`daily-dsa-log`](https://github.com/404harshfound/daily-dsa-log).
 
