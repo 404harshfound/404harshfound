@@ -6,7 +6,7 @@
 
 </div>
 
-CS undergrad at SRM Institute of Science and Technology, Delhi-NCR. Most of my time goes into Java and DSA, and I build backend projects to put that into practice. Lately I've been getting into GenAI and agentic systems too, and folding that into what I build. Aiming to land a software engineering role in 2027.
+CS undergrad at SRM Institute of Science and Technology, Delhi-NCR. Most of my time goes into Java and DSA, and I build backend projects to put that into practice. Lately I've been getting into GenAI and agentic systems too, and folding that into what I build.
 
 Practicing and logging daily — see [`daily-dsa-log`](https://github.com/404harshfound/daily-dsa-log).
 
