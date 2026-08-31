@@ -12,16 +12,15 @@ Practicing and logging daily — see [`daily-dsa-log`](https://github.com/404har
 
 ### Tech stack
 
-![Java](https://skillicons.dev/icons?i=java,spring,py,git,github,vscode,mysql,linux)
+![Java](https://skillicons.dev/icons?i=java,spring,py,git,github,mysql,linux)
 
-![GenAI](https://img.shields.io/badge/GenAI-LangChain%20%7C%20RAG%20%7C%20LLM%20APIs-6E56CF?style=flat-square)
 ![DSA](https://img.shields.io/badge/DSA-Java-2F6690?style=flat-square)
 
 ### Currently
 
-- Building a Java/Spring backend project and a GenAI-integrated project (RAG or a working agent)
-- Working through data structures & algorithms, then basic system design
-- Targeting SDE roles for the 2027 placement cycle
+- Building a Java/Spring backend project
+- Building a GenAI-integrated project (RAG or an agent)
+- Working through data structures & algorithms, then system design fundamentals
 
 ### Stats
 
